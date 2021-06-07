@@ -1,2 +1,2 @@
-# rps
- creating a rock paper scissors game
+# rockpaperscissor
+ A project build using Java Script
